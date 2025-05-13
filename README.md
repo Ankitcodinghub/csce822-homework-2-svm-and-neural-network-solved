@@ -1,0 +1,1 @@
+# csce822-homework-2-svm-and-neural-network-solved
